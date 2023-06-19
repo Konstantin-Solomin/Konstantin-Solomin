@@ -1,4 +1,4 @@
-<a id='link1'></a>
+
 <a id='RUS'></a>
 <a href="#ENG"><img src='https://img.shields.io/badge/RUS-ENG-blue'></a>
 
@@ -48,7 +48,7 @@
 <br>
 <br>
 <a id='ENG'></a>
-<a id='link2'></a>
+
 <a href="#RUS"><img src='https://img.shields.io/badge/ENG-RUS-blue'></a>
 
 <h2 align="center">Hi, I'm Konstantin 
