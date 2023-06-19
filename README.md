@@ -43,6 +43,14 @@
 <a href="https://github.com/Konstantin-Solomin/Yandex-Practicum-Data-Science">Проекты курса "Специалист по Data Science" от Яндекс Практикум</a><br>
 <a href="https://github.com/Konstantin-Solomin/Stepik-Python">Задания выполненые в ходе изучения языка Python</a><br>
 <a href="https://github.com/Konstantin-Solomin/SQL">Задания выполненые в ходе изучения SQL</a>
+
+<h3 align="left">Контакты</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/EMAIL-blue?style=%20for-the-badge&logo=Mail.Ru&logoColor=yellow" />  solomin_kos@mail.ru </p>
+<p align="left">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />  https://t.me/Keyten21</p>
+  <p align="left">
+<img src="https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white" /><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  +7 (904) 795-79-61</p>
 <br>
 <br>
 <br>
@@ -92,3 +100,11 @@
 <a href="https://github.com/Konstantin-Solomin/Yandex-Practicum-Data-Science">Projects of the course "Data Science Specialist" from Yandex Practicum</a><br>
 <a href="https://github.com/Konstantin-Solomin/Stepik-Python">Tasks completed while learning Python</a><br>
 <a href="https://github.com/Konstantin-Solomin/SQL">Tasks completed while learning SQL</a>
+
+<h3 align="left">Contacts</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/EMAIL-blue?style=%20for-the-badge&logo=Mail.Ru&logoColor=yellow" />  solomin_kos@mail.ru </p>
+<p align="left">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />  https://t.me/Keyten21</p>
+  <p align="left">
+<img src="https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white" /><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  +7 (904) 795-79-61</p>
