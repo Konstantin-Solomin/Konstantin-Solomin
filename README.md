@@ -35,6 +35,7 @@
 <br>
 
 <h3 align="left">Сертификаты</h3>
+<a href="https://github.com/Konstantin-Solomin/Konstantin-Solomin/blob/main/Yandex_Practicum_RU.pdf">"Специалист по Data Science"</a><br>
 <a href="https://github.com/Konstantin-Solomin/Konstantin-Solomin/blob/main/Python_1.pdf">"Программирование на Python"</a><br>
 <a href="https://github.com/Konstantin-Solomin/Konstantin-Solomin/blob/main/Python_2.pdf">"Python: основы и применение"</a><br>
 <a href="https://github.com/Konstantin-Solomin/Konstantin-Solomin/blob/main/SQL.pdf">"Введение в базы данных"</a>
@@ -92,6 +93,7 @@
 <br>
 
 <h3 align="left">Certificates</h3>
+<a href="https://github.com/Konstantin-Solomin/Konstantin-Solomin/blob/main/Yandex_Practicum_ENG.pdf">"Data Scientist"</a><br>
 <a href="https://github.com/Konstantin-Solomin/Konstantin-Solomin/blob/main/Python_1.pdf">"Python Programming"</a><br>
 <a href="https://github.com/Konstantin-Solomin/Konstantin-Solomin/blob/main/Python_2.pdf">"Python: Basics and application"</a><br>
 <a href="https://github.com/Konstantin-Solomin/Konstantin-Solomin/blob/main/SQL.pdf">"Introduction to Databases"</a>
