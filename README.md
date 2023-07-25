@@ -1,5 +1,4 @@
-
-<article id="RUS"></article>
+<a name="RUS"></a>
 <a href="#ENG"><img src='https://img.shields.io/badge/ENG-RUS-blue'></a>
 
 <h2 align="center">Привет, я Константин 
@@ -56,7 +55,7 @@
 <br>
 <br>
 <br>
-<article id="ENG"></article>
+<a name="ENG"></a>
 <a href="#RUS"><img src='https://img.shields.io/badge/RUS-ENG-blue'></a>
 
 <h2 align="center">Hi, I'm Konstantin 
