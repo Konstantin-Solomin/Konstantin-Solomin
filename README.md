@@ -1,6 +1,6 @@
-<a id="RUS"></a>
+<a id='link6'></a>
+<a id='RUS'></a>
 <a href="#ENG"><img src='https://img.shields.io/badge/ENG-RUS-blue'></a>
-<a href="#ENG">oooo</a>
 
 <h2 align="center">Привет, я Константин 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
@@ -56,7 +56,10 @@
 <br>
 <br>
 <br>
-<a id="ENG"></a>
+
+<a id='ENG'></a>
+<a id='link7'></a>
+
 <a href="#RUS"><img src='https://img.shields.io/badge/RUS-ENG-blue'></a>
 
 <h2 align="center">Hi, I'm Konstantin 
