@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-%23white.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=blue&color=black" />
 </p><br> 
  
 <h3 align="left"><a href="https://github.com/Konstantin-Solomin/Konstantin-Solomin/edit/main/README.md">Резюме</a></h3>
@@ -87,6 +88,7 @@
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-%23white.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=blue&color=black" />
 </p><br> 
  
 <h3 align="left"><a href="https://github.com/Konstantin-Solomin/Konstantin-Solomin/edit/main/README.md">Resume</a></h3>
