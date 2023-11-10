@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Docker-%23white.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=blue&color=black" />
 </p><br> 
  
-<h3 align="left"><a href="https://github.com/Konstantin-Solomin/Konstantin-Solomin/edit/main/README.md">Резюме</a></h3>
+<h3 align="left"><a href="https://disk.yandex.ru/i/C_Nng00hoIM0nA">Резюме</a></h3>
 <br>
 
 <h3 align="left">Сертификаты</h3>
@@ -91,7 +91,7 @@
   <img src="https://img.shields.io/badge/Docker-%23white.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=blue&color=black" />
 </p><br> 
  
-<h3 align="left"><a href="https://github.com/Konstantin-Solomin/Konstantin-Solomin/edit/main/README.md">Resume</a></h3>
+<h3 align="left"><a href="https://disk.yandex.ru/i/C_Nng00hoIM0nA">Resume</a></h3>
 <br>
 
 <h3 align="left">Certificates</h3>
